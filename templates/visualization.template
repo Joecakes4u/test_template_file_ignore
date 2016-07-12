@@ -1,0 +1,9 @@
+[info]
+name = Visualization
+
+[service]
+schedule = {"all":"continuous"}
+
+[test]
+
+[test2]

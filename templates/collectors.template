@@ -1,0 +1,9 @@
+[info]
+name = Collectors
+
+[service]
+schedule = {"all":"continuous"}
+
+[test]
+
+[test2]
